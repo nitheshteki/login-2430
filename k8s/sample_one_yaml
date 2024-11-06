@@ -1,0 +1,35 @@
+key pair
+key: value
+name: nithesh
+city: hyderabad
+time: 8
+
+# Dictionary
+trainer:
+  name: ravi
+  city: hyderabad
+
+
+# lists
+Courses:
+  
+  - aws
+  - azure
+  - devops
+
+  # pod representation
+   institute: edify
+   plotno: 92
+   infrastructure: 
+     floors: 3
+     classrooms: 10
+     Courses:
+       aws:
+       - student_name: mike
+         student_age: 25
+         student_contact:
+         - personal: 999
+         - house: 888
+
+
+
